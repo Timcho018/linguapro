@@ -1,0 +1,30 @@
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    scroll-margin-top: 70px;
+}
+
+.navbar {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.card-body {
+    line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    letter-spacing: -0.3px;
+}
+
+.text-secondary {
+    line-height: 1.7;
+}
